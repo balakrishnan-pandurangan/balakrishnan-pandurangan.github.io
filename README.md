@@ -2,7 +2,7 @@
 
 Professional with 7+ years of industry experience in Software design and development
 
-# Tech Stack
+## Tech Stack
 
 Go, C#, NODE, AWS
 

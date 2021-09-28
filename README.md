@@ -6,6 +6,6 @@ Professional with 7+ years of industry experience in Software design and develop
 
 Go, C#, NODE, AWS
 
-Currently working as Sr Software Engineer in McAfee in bangalore
+Currently working as Sr Software Engineer in McAfee at bangalore
 
 

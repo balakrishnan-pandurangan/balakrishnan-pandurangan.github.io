@@ -1,0 +1,35 @@
+#pb-js{
+    width: 86%;    
+}
+
+#pb-ts{
+    width: 80%;
+}
+
+#pb-go{
+    width: 100%;
+}
+
+#pb-csharp{
+    width: 90%;
+}
+
+#pb-sql{
+    width: 99%;
+}
+
+#pb-postgres{
+    width: 99%;
+}
+
+#pb-dynamo{
+    width: 79%;
+}
+
+#pb-aws{
+    width: 80%;
+}
+
+.title{
+    width: 200px;
+}
